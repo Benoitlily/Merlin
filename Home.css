@@ -1616,9 +1616,8 @@
 }
 
 .u-section-7 .u-form-1 {
-  width: 570px;
   height: 108px;
-  margin: 101px auto 0 395px;
+  margin: 0 155px 0 334px;
 }
 
 .u-section-7 .u-label-1 {
@@ -1753,9 +1752,9 @@
   }
 
   .u-section-7 .u-form-1 {
-    margin-top: 0;
     margin-right: 42px;
     margin-left: 328px;
+    width: 570px;
   }
 
   .u-section-7 .u-group-2 {
@@ -1822,7 +1821,7 @@
   .u-section-7 .u-form-1 {
     margin-top: 33px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 0;
   }
 
   .u-section-7 .u-group-2 {
